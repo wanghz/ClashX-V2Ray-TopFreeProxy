@@ -42,8 +42,8 @@
 * Kxswa: https://kxswa.tk/clash
 
 **免费节点池**
-* BiHai: https://proxies.bihai.cf ★
-* LonXin: https://fq.lonxin.net
+* BiHai: https://proxies.bihai.cf ★   报废
+* LonXin: https://fq.lonxin.net   报废
 
 ## 设置
 **详细设置信息请参阅：https://github.com/githubvpn007/ClashX**
